@@ -2,8 +2,6 @@
 
 A modern, full-stack weather application built with React, TypeScript, and Express.js. Get real-time weather information, forecasts, and beautiful data visualizations.
 
-![SkyCast Weather App](https://github.com/user-attachments/assets/03aed8a9-f2e1-4fcf-8628-5d1abd0c678c)
-
 ## ✨ Features
 
 - 🌍 **Global Weather Data** - Get weather information for any city worldwide
@@ -134,9 +132,7 @@ docker-compose up --build
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the ISC License.
 
 ## 👨‍💻 Author
 
